@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "earthsmp.progamer.me",
-    "port": 42851,
+    "port": "",
     "version": "1.21.1",
     "try-creative": false
   },
